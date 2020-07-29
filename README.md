@@ -3,7 +3,7 @@ Facial recognition based door lock with obstruction detection using Python and R
 
 The modules that have been used for face recognition are OpenCV and Face Recognition. 
 
-A simple webcam can be used. If a person's face encdoings is in the acceptable list, a ddor ccontrolled by a servo motor accordinly
+A simple webcam can be used. If a person's face encdoings is in the acceptable list, a door controlled by a servo motor accordingly
 opens. 
 
 Two IR sensors have also been used. The first IR sensor detects when a person comes close to the door, and only then the camera
